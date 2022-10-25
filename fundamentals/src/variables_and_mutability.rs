@@ -1,3 +1,4 @@
+// https://doc.rust-lang.org/book/ch03-01-variables-and-mutability.html
 pub fn example() {
     println!("\n########################## variables_and_mutability:");
 
