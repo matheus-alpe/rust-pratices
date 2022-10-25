@@ -1,11 +1,8 @@
-mod variables_and_mutability;
-mod data_types;
-mod functions;
-mod comments;
+mod concepts1;
 
 fn main() {
-    variables_and_mutability::example();
-    data_types::example();
-    functions::example();
-    comments::example();
+    concepts1::variables_and_mutability::example();
+    concepts1::data_types::example();
+    concepts1::functions::example();
+    concepts1::comments::example();
 }
