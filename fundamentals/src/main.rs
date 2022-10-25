@@ -5,4 +5,5 @@ fn main() {
     concepts1::data_types::example();
     concepts1::functions::example();
     concepts1::comments::example();
+    concepts1::control_flow::example();
 }
