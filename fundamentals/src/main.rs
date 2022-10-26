@@ -38,6 +38,7 @@ fn main() {
         },
         2 => {
             concepts2::ownership::example();
+            concepts2::references_and_borrowing::example();
         },
         _ => println!("\nPass a number argument on `cargo run`.\nExample: `cargo run 1`\n"),
     }
